@@ -40,9 +40,9 @@ public class Exercicio7 {
 							
 				else if((num3>num1) && (num3>num2))
 					maior = num3;
-		System.out.println(menor);
-		System.out.println(medio);
 		System.out.println(maior);
+		System.out.println(medio);
+		System.out.println(menor);
 		entrada.close();
 		
 		}
